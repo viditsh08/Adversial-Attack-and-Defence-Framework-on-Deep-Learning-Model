@@ -90,17 +90,20 @@ python src/main.py
 
 ## 📸 Screenshots
 
-### 🔹 Model Prediction (Before Attack)
+## 📸 Screenshots
 
-![Before Attack](images/before_attack.png)
+### 🔹 Original and Adversarial Prediction on Baseline Model
 
-### 🔹 Model Prediction (After Attack)
+![Baseline](images/baseline_predictions.png)
 
-![After Attack](images/after_attack.png)
+### 🔹 Original and Adversarial Prediction on Defense Model
 
-### 🔹 Performance Visualization
+![Defense](images/defense_predictions.png)
 
-![Graph](images/performance_graph.png)
+### 🔹 Performance Comparison Graph
+
+![Performance](images/performance_graph.png)
+
 
 ---
 
