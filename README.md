@@ -90,19 +90,22 @@ python src/main.py
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🔹 Original and Adversarial Prediction on Baseline Model
 
-![Baseline](images/baseline_predictions.png)
+![Baseline](images/baseline_prediction.png)
 
 ### 🔹 Original and Adversarial Prediction on Defense Model
 
-![Defense](images/defense_predictions.png)
+![Defense](images/defense_prediction.png)
 
-### 🔹 Performance Comparison Graph
+### 🔹 Performance Comparison Graph (Baseline Model)
 
-![Performance](images/performance_graph.png)
+![Baseline Graph](images/baseline_graph.png)
+
+### 🔹 Performance Comparison Graph (Defense Model)
+
+![Defense Graph](images/defense_graph.png)
+
 
 
 ---
